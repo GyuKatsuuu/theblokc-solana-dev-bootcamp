@@ -8,4 +8,11 @@ pwd (To print the current working directory)
 ls (To list the information on that directory)
 ls -a (A more extensive list)
 ls -a -l (All and Long List that includes hidden files)
+cd (changes directory)
+mkrdir (makes a directory)
+rm (removes files / directories)
+cp (copies files / directories)
+mv (moves files / directories)
 
+
+Git
